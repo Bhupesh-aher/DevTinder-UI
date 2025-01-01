@@ -23,7 +23,7 @@ const Navbar = () => {
 
 
     }catch(err){
-      // Error logic maybe redirect to user page
+      // Error logic maybe redirect to error page
     }
   }
   
