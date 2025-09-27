@@ -2,4 +2,4 @@
 export const BASE_URL =
   location.hostname === "localhost"
     ? "http://localhost:7777"
-    : "https://dev-tinder-lovat-gamma.vercel.app";
+    : "https://devtinder-1xf2.onrender.com";
