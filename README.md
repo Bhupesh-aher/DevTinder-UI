@@ -10,7 +10,7 @@
 <p align="center">
   🚀 <b>DevTinder</b> — a Tinder-style networking platform for developers to connect, chat, and collaborate in real-time.  
   <br/>
-  <a href="https://devtinder-frontend.vercel.app" target="https://dev-tinder-ui-mu.vercel.app/login"><b>🌐 Live Demo</b></a> | 
+  <a href="https://dev-tinder-ui-mu.vercel.app/" target="_blank"><b>🌐 Live Demo</b></a> | 
 </p>
 
 ---
